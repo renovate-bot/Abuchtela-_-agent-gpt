@@ -39,6 +39,7 @@ const DefaultLayout = (props: LayoutProps) => {
           name="google-site-verification"
           content="sG4QDkC8g2oxKSopgJdIe2hQ_SaJDaEaBjwCXZNkNWA"
         />
+        <meta name="talentapp:project_verification" content="f86b68df629f6ac7af584584b2a3f5110982b8231aa9859e937a4b47e11830bbf3686f6d1a68aebdb9db4f86e2ca9e5871a812f287b45c1a32ca32678c790700" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className={clsx("min-w-screen min-h-screen", props.className)}>{props.children}</div>
