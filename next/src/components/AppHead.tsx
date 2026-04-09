@@ -22,6 +22,7 @@ const AppHead = ({ title, ogTitle }: { title?: string; ogTitle?: string }) => {
       <meta property="og:image:height" content="640" />
       <meta property="og:type" content="website" />
       <meta name="google-site-verification" content="sG4QDkC8g2oxKSopgJdIe2hQ_SaJDaEaBjwCXZNkNWA" />
+      <meta name="talentapp:project_verification" content="f86b68df629f6ac7af584584b2a3f5110982b8231aa9859e937a4b47e11830bbf3686f6d1a68aebdb9db4f86e2ca9e5871a812f287b45c1a32ca32678c790700" />
 
       <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
       <link rel="mask-icon" href="/favicon.svg" />
